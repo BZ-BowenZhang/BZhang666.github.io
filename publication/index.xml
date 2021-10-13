@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Bowen Zhang</title>
-    <link>https://academic-demo.netlify.app/publication/</link>
-      <atom:link href="https://academic-demo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bzhang666.github.io/publication/</link>
+      <atom:link href="https://bzhang666.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Bowen Zhang 2021</copyright><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bzhang666.github.io/media/icon_hu20b81aea9f45f337308cff4978cba546_69169_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://academic-demo.netlify.app/publication/</link>
+      <link>https://bzhang666.github.io/publication/</link>
     </image>
     
     <item>
       <title>A Novel Regionalisation Algorithm for Redrawing Cities’ Functional Boundary within Mega-city Region (working paper)</title>
-      <link>https://academic-demo.netlify.app/publication/preprint/</link>
+      <link>https://bzhang666.github.io/publication/preprint/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
+      <guid>https://bzhang666.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional neural networks: Computer vision-based workforce activity assessment in construction</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <link>https://bzhang666.github.io/publication/journal-article/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <guid>https://bzhang666.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
+      <link>https://bzhang666.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
+      <guid>https://bzhang666.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
